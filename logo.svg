@@ -1,13 +1,80 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<svg version="1.2" viewBox="0 0 1080 1080" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg">
-  <title>bimi-svg-tiny-12-ps</title>
-  <rect x="-.02" y=".4" width="1080" height="1080" stroke="#1d1d1b" stroke-miterlimit="10"/>
-  <rect x="762.71" y="664.88" width="103.12" height="103.12" rx="51.56" ry="51.56" fill="#fff"/>
-  <path d="M386.39,312.81v455.19h-100.92v-142.7l.02-.02,12.64-12.64-12.66-12.66v-287.17h100.92Z" fill="#fff"/>
-  <path d="M596.21,457.28l-310.72,310.72-.02-.02c-39.38-39.4-39.38-103.28,0-142.68l.02-.02,12.64-12.64,71.36-71.36,16.9-16.9,67.1-67.1h142.72Z" fill="#fff"/>
-  <path d="M693.42,241.32h0c55.7,0,100.92,45.22,100.92,100.92v142.98h-100.92v-243.89h0Z" transform="translate(380.61 1107.15) rotate(-90)" fill="#fff"/>
-  <path d="M722.85,312.81h0v455.19h-100.92v-354.28c0-55.7,45.22-100.92,100.92-100.92Z" fill="#fff"/>
-  <path d="M452.97,312.81h40.12c56.91,0,103.12,46.21,103.12,103.12h-40.12c-56.91,0-103.12-46.21-103.12-103.12h0Z" fill="#fff"/>
-  <polygon points="596.21 768 453.49 768 386.39 700.9 369.49 684 214.13 528.64 285.47 457.3 285.49 457.28 386.39 558.18 440.85 612.64 596.21 768" fill="#fff"/>
-  <polygon points="809.79 511.73 809.79 612.64 521.03 612.64 621.94 511.73 809.79 511.73" fill="#fff"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1080 1080">
+  <!-- Generator: Adobe Illustrator 29.1.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 142)  -->
+  <defs>
+    <linearGradient id="Gradiente_sem_nome_207" data-name="Gradiente sem nome 207" x1="275.64" y1="281.38" x2="276.69" y2="827.18" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff34bf"/>
+      <stop offset=".13" stop-color="#c927bf"/>
+      <stop offset=".27" stop-color="#9b1dc0"/>
+      <stop offset=".4" stop-color="#7714c0"/>
+      <stop offset=".52" stop-color="#5e0ec0"/>
+      <stop offset=".62" stop-color="#4e0bc0"/>
+      <stop offset=".71" stop-color="#490ac1"/>
+      <stop offset=".76" stop-color="#4e0fc4"/>
+      <stop offset=".82" stop-color="#5e1ecd"/>
+      <stop offset=".89" stop-color="#7936dc"/>
+      <stop offset=".96" stop-color="#9d58f2"/>
+      <stop offset=".99" stop-color="#af68fc"/>
+    </linearGradient>
+    <linearGradient id="Gradiente_sem_nome_205" data-name="Gradiente sem nome 205" x1="169.99" y1="193.24" x2="171.07" y2="760.3" gradientTransform="translate(-54.91 500.42) rotate(-45) scale(1 .82)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff34bf"/>
+      <stop offset=".06" stop-color="#ec32ba"/>
+      <stop offset=".17" stop-color="#bd2dad"/>
+      <stop offset=".32" stop-color="#712598"/>
+      <stop offset=".42" stop-color="#3c208a"/>
+      <stop offset=".49" stop-color="#4f2c9d"/>
+      <stop offset=".64" stop-color="#7845c5"/>
+      <stop offset=".79" stop-color="#9658e3"/>
+      <stop offset=".91" stop-color="#a863f5"/>
+      <stop offset=".99" stop-color="#af68fc"/>
+    </linearGradient>
+    <linearGradient id="Gradiente_sem_nome_204" data-name="Gradiente sem nome 204" x1="317.85" y1="-106.45" x2="321.92" y2="647.54" gradientTransform="translate(-54.91 555.98) rotate(45) scale(1 -.82)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff34bf"/>
+      <stop offset=".13" stop-color="#ec34c7"/>
+      <stop offset=".39" stop-color="#bd37de"/>
+      <stop offset=".71" stop-color="#7b3bff"/>
+      <stop offset=".99" stop-color="#af68fc"/>
+    </linearGradient>
+    <linearGradient id="Gradiente_sem_nome_216" data-name="Gradiente sem nome 216" x1="1115.38" y1="426.24" x2="1114.04" y2="793.38" gradientTransform="translate(-311.13 -283.89)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff34bf"/>
+      <stop offset="0" stop-color="#e930bc"/>
+      <stop offset=".03" stop-color="#c42ab7"/>
+      <stop offset=".05" stop-color="#a425b3"/>
+      <stop offset=".08" stop-color="#8921af"/>
+      <stop offset=".1" stop-color="#731dac"/>
+      <stop offset=".13" stop-color="#621baa"/>
+      <stop offset=".17" stop-color="#5619a9"/>
+      <stop offset=".23" stop-color="#4f18a8"/>
+      <stop offset=".38" stop-color="#4e18a8"/>
+      <stop offset=".65" stop-color="#7639cb"/>
+      <stop offset=".99" stop-color="#af68fc"/>
+    </linearGradient>
+    <linearGradient id="Gradiente_sem_nome_214" data-name="Gradiente sem nome 214" x1="903.24" y1="-9.98" x2="899.1" y2="1121.32" gradientTransform="translate(-189.53 -72.57)" gradientUnits="userSpaceOnUse">
+      <stop offset=".17" stop-color="#ff34bf"/>
+      <stop offset=".21" stop-color="#f632bf"/>
+      <stop offset=".28" stop-color="#e02cbf"/>
+      <stop offset=".37" stop-color="#bb24bf"/>
+      <stop offset=".47" stop-color="#8818c0"/>
+      <stop offset=".58" stop-color="#490ac1"/>
+      <stop offset=".62" stop-color="#5212c6"/>
+      <stop offset=".68" stop-color="#6b29d4"/>
+      <stop offset=".76" stop-color="#934eec"/>
+      <stop offset=".8" stop-color="#af68fc"/>
+    </linearGradient>
+    <linearGradient id="Gradiente_sem_nome_2041" data-name="Gradiente sem nome 204" x1="957.22" y1="740.49" x2="606.98" y2="504.4" gradientTransform="matrix(1,0,0,1,0,0)" xlink:href="#Gradiente_sem_nome_204"/>
+    <linearGradient id="Gradiente_sem_nome_2042" data-name="Gradiente sem nome 204" x1="520.67" y1="289.04" x2="519.61" y2="580.95" gradientTransform="translate(0 -137.87)" xlink:href="#Gradiente_sem_nome_204"/>
+    <linearGradient id="Gradiente_sem_nome_2043" data-name="Gradiente sem nome 204" x1="895.23" y1="743.91" x2="894.16" y2="1036.48" gradientTransform="translate(0 -137.87)" xlink:href="#Gradiente_sem_nome_204"/>
+  </defs>
+  <g>
+    <rect x=".5" y=".5" width="1079" height="1079"/>
+    <path d="M1079,1v1078H1V1h1078M1080,0H0v1080h1080V0h0Z"/>
+  </g>
+  <rect x="210.89" y="246.12" width="130.49" height="588.58" fill="url(#Gradiente_sem_nome_207)"/>
+  <polygon points="612.69 834.69 428.15 834.69 118.65 525.19 210.91 432.92 612.69 834.69" fill="url(#Gradiente_sem_nome_205)"/>
+  <path d="M612.69,432.92h-184.54s-217.24,217.24-217.24,217.24c-50.96,50.96-50.96,133.58,0,184.54h0s401.77-401.77,401.77-401.77Z" fill="url(#Gradiente_sem_nome_204)"/>
+  <path d="M738.39,153.68h0c72.02,0,130.49,58.47,130.49,130.49v184.87h-130.49V153.68h0Z" transform="translate(492.27 1114.99) rotate(-90)" fill="url(#Gradiente_sem_nome_216)"/>
+  <path d="M776.44,246.12h0v588.58h-130.49v-458.09c0-72.02,58.47-130.49,130.49-130.49Z" fill="url(#Gradiente_sem_nome_214)"/>
+  <polygon points="888.85 503.32 888.85 633.81 515.48 633.81 645.96 503.32 888.85 503.32" fill="url(#Gradiente_sem_nome_2041)"/>
+  <path d="M427.48,246.12h51.87c73.59,0,133.34,59.75,133.34,133.34h-51.87c-73.59,0-133.34-59.75-133.34-133.34h0Z" fill="url(#Gradiente_sem_nome_2042)"/>
+  <rect x="827.97" y="701.36" width="133.34" height="133.34" rx="66.67" ry="66.67" fill="url(#Gradiente_sem_nome_2043)"/>
 </svg>
